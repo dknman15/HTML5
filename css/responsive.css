@@ -1,0 +1,17 @@
+@media (min-width: 1300px) { 
+	
+}
+@media (max-width: 1024px) { 
+	html { -webkit-text-size-adjust: none; }
+	img { height: auto; max-width: 100%; }
+}
+
+@media (max-width: 768px) {
+	
+}
+@media (max-width: 640px) { 
+	
+}
+@media (max-width: 480px) { 
+	
+}
